@@ -19,7 +19,7 @@ h1 {
 }
 
 .trigger,
-.tweet{
+.tweet {
     display: block;
     width: 300px;
     padding: 10px 30px;
@@ -29,8 +29,12 @@ h1 {
     background-color: #55ACEE;
     margin: 0 auto;
     margin-bottom: 30px;
-    text-decoration: none;
     text-align: center;
+    cursor: pointer;
+}
+
+.tweet {
+    text-decoration: none;
 }
 
 .tweet,
