@@ -37,6 +37,14 @@ h1 {
     text-decoration: none;
 }
 
+.trigger:hover {
+	background-color: #3B78A6;
+}
+
+.tweet:hover {
+	background-color: #3B78A6;
+}
+
 .tweet,
 i.fa {
     margin: auto;
